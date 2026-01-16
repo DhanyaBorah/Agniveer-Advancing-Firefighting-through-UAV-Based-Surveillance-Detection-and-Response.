@@ -1,0 +1,2 @@
+# Agniveer-Advancing-Firefighting-through-UAV-Based-Surveillance-Detection-and-Response.
+AgniVeer is a drone-based fire surveillance and response system designed to reduce risks to firefighters. Using infrared sensors, the drone detects fire in real time and automatically activates a spraying mechanism to release water or fire-retardant solution, enabling fast and safe fire suppression in hazardous areas.
